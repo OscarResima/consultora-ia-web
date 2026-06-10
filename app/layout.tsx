@@ -87,9 +87,6 @@ export const metadata: Metadata = {
       'es-ES': 'https://www.automatizacionprocesos.es',
     },
   },
-  verification: {
-    google: 'google-site-verification-token',
-  },
   category: 'technology',
 }
 
