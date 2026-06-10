@@ -19,10 +19,10 @@ export const blogPosts: BlogPost[] = [
     date: '2026-05-20',
     category: 'Estrategia IA',
     readTime: 8,
-    author: 'AP Automatización IA',
+    author: 'Automatización Procesos IA',
     tags: ['estrategia ia', 'pymes', 'implementacion ia', 'presupuesto ia', 'roi ia'],
     content: `<h2>Por qué tantas empresas fracasan al implementar IA</h2>
-<p>Cada semana aparece una nueva herramienta de inteligencia artificial que promete revolucionar tu empresa. El resultado, en demasiadas ocasiones, es una factura considerable y un equipo que no sabe cómo usar lo que acaba de contratar. En AP Automatización IA llevamos años acompañando a empresas españolas en su transformación digital con IA, y lo que hemos aprendido es que el fracaso casi nunca tiene que ver con la tecnología. Tiene que ver con el orden en que se hacen las cosas.</p>
+<p>Cada semana aparece una nueva herramienta de inteligencia artificial que promete revolucionar tu empresa. El resultado, en demasiadas ocasiones, es una factura considerable y un equipo que no sabe cómo usar lo que acaba de contratar. En Automatización Procesos IA llevamos años acompañando a empresas españolas en su transformación digital con IA, y lo que hemos aprendido es que el fracaso casi nunca tiene que ver con la tecnología. Tiene que ver con el orden en que se hacen las cosas.</p>
 <p>Según datos del INE, el 62% de las pymes españolas que han invertido en digitalización en los últimos dos años no pueden cuantificar el retorno obtenido. En el caso específico de la inteligencia artificial, ese porcentaje sube al 71%. No porque la IA no funcione, sino porque se implementa sin metodología.</p>
 
 <h2>El error más común: empezar por la solución</h2>
@@ -71,7 +71,7 @@ export const blogPosts: BlogPost[] = [
 <p>Tampoco puede reemplazar a las personas en tareas que requieren empatía, juicio complejo o relación humana. El objetivo nunca debería ser eliminar personas, sino liberar a las personas de tareas que les quitan tiempo y valor para que puedan dedicarse a lo que realmente importa.</p>
 
 <h2>El primer paso concreto que puedes dar hoy</h2>
-<p>Si quieres empezar bien, empieza con un diagnóstico. En AP Automatización IA ofrecemos un diagnóstico gratuito de 45 minutos donde analizamos tus procesos actuales, identificamos los tres casos de uso con mayor potencial y te damos una hoja de ruta con el orden lógico de implementación. Sin presión, sin compromiso. Si al final tiene sentido trabajar juntos, hablamos. Si no, te vas con un plan claro que puedes ejecutar solo.</p>
+<p>Si quieres empezar bien, empieza con un diagnóstico. En Automatización Procesos IA ofrecemos un diagnóstico gratuito de 45 minutos donde analizamos tus procesos actuales, identificamos los tres casos de uso con mayor potencial y te damos una hoja de ruta con el orden lógico de implementación. Sin presión, sin compromiso. Si al final tiene sentido trabajar juntos, hablamos. Si no, te vas con un plan claro que puedes ejecutar solo.</p>
 <p><a href="/diagnostico-gratuito">Solicita tu diagnóstico gratuito aquí</a> y da el primer paso de forma inteligente.</p>`,
   },
   {
@@ -82,7 +82,7 @@ export const blogPosts: BlogPost[] = [
     date: '2026-05-13',
     category: 'Automatización',
     readTime: 7,
-    author: 'AP Automatización IA',
+    author: 'Automatización Procesos IA',
     tags: ['automatizacion pymes', 'procesos empresariales', 'ahorro tiempo', 'ia para pymes', 'eficiencia'],
     content: `<h2>La automatización con IA ya no es solo para grandes empresas</h2>
 <p>Hace cinco años, implementar inteligencia artificial en una empresa era un proyecto que requería un equipo de ingenieros, meses de desarrollo y un presupuesto de seis cifras. Hoy, gracias a herramientas como n8n, Make, Zapier y las APIs de los modelos de lenguaje más avanzados, una pyme con 10 empleados puede automatizar procesos completos por unos cientos de euros al año.</p>
@@ -137,7 +137,7 @@ export const blogPosts: BlogPost[] = [
     date: '2026-05-06',
     category: 'Herramientas IA',
     readTime: 9,
-    author: 'AP Automatización IA',
+    author: 'Automatización Procesos IA',
     tags: ['chatgpt empresa', 'claude ia', 'microsoft copilot', 'gemini google', 'comparativa ia'],
     content: `<h2>La pregunta que nos hacen casi todas las semanas</h2>
 <p>"¿Qué herramienta de IA debería usar mi empresa?" es probablemente la consulta que más recibimos. Y la respuesta honesta es que no existe una única herramienta correcta: depende de lo que hagas, de los sistemas que ya usas y de qué tipo de tareas quieres automatizar o potenciar.</p>
@@ -237,7 +237,7 @@ export const blogPosts: BlogPost[] = [
     date: '2026-04-29',
     category: 'Agentes IA',
     readTime: 6,
-    author: 'AP Automatización IA',
+    author: 'Automatización Procesos IA',
     tags: ['agentes ia', 'automatizacion inteligente', 'chatbot vs agente', 'ia empresarial', 'transformacion digital'],
     content: `<h2>La diferencia fundamental entre un chatbot y un agente de IA</h2>
 <p>Cuando la mayoría de empresas piensa en IA, piensa en chatbots. Y tiene sentido: fueron la primera forma de IA conversacional que se popularizó en los negocios. Pero los agentes de IA son algo sustancialmente diferente y mucho más potente.</p>
@@ -290,7 +290,7 @@ export const blogPosts: BlogPost[] = [
     date: '2026-04-22',
     category: 'Automatización',
     readTime: 7,
-    author: 'AP Automatización IA',
+    author: 'Automatización Procesos IA',
     tags: ['automatizacion facturas', 'gestion documental ia', 'ocr ia', 'n8n automatizacion', 'roi automatizacion'],
     content: `<h2>El problema que nadie quiere admitir</h2>
 <p>En la mayoría de pymes españolas, el procesamiento de facturas y documentos funciona así: alguien recibe un email con una factura adjunta, la descarga, la abre, lee los datos manualmente, los introduce en el software de contabilidad o en una hoja de Excel, la archiva en la carpeta correcta, y lo registra en el sistema de seguimiento de pagos. Este proceso, multiplicado por decenas o cientos de documentos al mes, consume horas de trabajo cualificado en tareas que no aportan ningún valor al negocio.</p>
@@ -346,7 +346,7 @@ export const blogPosts: BlogPost[] = [
     date: '2026-04-15',
     category: 'Automatización',
     readTime: 6,
-    author: 'AP Automatización IA',
+    author: 'Automatización Procesos IA',
     tags: ['administracion ia', 'tareas repetitivas', 'automatizacion administrativa', 'productividad empresa', 'pymes españa'],
     content: `<h2>El coste oculto de las tareas administrativas</h2>
 <p>En una pyme española media, el equipo administrativo dedica entre el 40% y el 60% de su tiempo a tareas completamente repetitivas: copiar datos de un sistema a otro, enviar emails con la misma estructura una y otra vez, archivar documentos en carpetas, generar informes copiando números de una hoja a otra. Ese porcentaje, traducido a coste anual, suele superar los 20.000 euros en empresas de 10 personas.</p>
@@ -386,7 +386,7 @@ export const blogPosts: BlogPost[] = [
     date: '2026-04-08',
     category: 'Estrategia IA',
     readTime: 8,
-    author: 'AP Automatización IA',
+    author: 'Automatización Procesos IA',
     tags: ['ia para directivos', 'gerentes ia', 'inversion ia empresa', 'estrategia ia', 'proveedores ia'],
     content: `<h2>Lo que nadie te cuenta sobre la IA empresarial</h2>
 <p>Si eres gerente o director de una empresa, en los últimos meses te habrán llegado propuestas de proveedores de IA, artículos sobre empresas que han "transformado su negocio con IA" y presión implícita o explícita de competidores que aparentemente están avanzando más rápido. Este artículo está escrito para ti: sin tecnicismos, sin hype, con la información que necesitas para tomar decisiones inteligentes sobre dónde y cuánto invertir.</p>
@@ -457,7 +457,7 @@ export const blogPosts: BlogPost[] = [
     date: '2026-04-01',
     category: 'Automatización',
     readTime: 6,
-    author: 'AP Automatización IA',
+    author: 'Automatización Procesos IA',
     tags: ['automatizacion email', 'email marketing ia', 'n8n email', 'seguimiento automatico', 'crm automatizacion'],
     content: `<h2>Por qué la automatización de emails es el primer proyecto de IA de muchas empresas</h2>
 <p>Si tuvieras que elegir un solo proceso para automatizar en tu empresa este año, la automatización de emails sería una candidata muy seria para empezar. Las razones son claras: casi todas las empresas usan email intensamente en sus operaciones diarias, el impacto en ventas y en servicio al cliente es directo y fácilmente medible, las herramientas para implementarlo son maduras y accesibles, y el retorno es rápido y visible para toda la organización.</p>
@@ -514,7 +514,7 @@ export const blogPosts: BlogPost[] = [
     date: '2026-03-25',
     category: 'Tecnología',
     readTime: 7,
-    author: 'AP Automatización IA',
+    author: 'Automatización Procesos IA',
     tags: ['rag empresarial', 'ia datos empresa', 'base de datos ia', 'privacidad ia', 'agentes ia datos'],
     content: `<h2>El límite de la IA genérica en las empresas</h2>
 <p>ChatGPT es muy útil para muchas cosas. Pero tiene un límite fundamental para el uso empresarial serio: no conoce tu empresa. No sabe cuánto stock tienes de cada producto, no conoce el historial de tu cliente número 4521, no tiene acceso a tus contratos actuales ni a tus tarifas vigentes. Responde con conocimiento general, no con el conocimiento específico de tu negocio.</p>
@@ -567,7 +567,7 @@ export const blogPosts: BlogPost[] = [
     date: '2026-03-18',
     category: 'Estrategia IA',
     readTime: 8,
-    author: 'AP Automatización IA',
+    author: 'Automatización Procesos IA',
     tags: ['errores ia empresa', 'implementacion ia', 'estrategia ia', 'fallos ia empresarial', 'buenas practicas ia'],
     content: `<h2>Por qué los proyectos de IA fracasan</h2>
 <p>Según datos de Gartner, más del 85% de los proyectos de IA empresarial no llegan a producción o no alcanzan los resultados esperados en el plazo previsto. En nuestra experiencia trabajando con empresas españolas de distintos sectores y tamaños, esa cifra nos parece creíble. Y en casi todos los casos que hemos visto, el fracaso no se debe a que la tecnología no funcione. Se debe a errores evitables que se cometen en las primeras fases del proyecto.</p>
@@ -624,7 +624,7 @@ export const blogPosts: BlogPost[] = [
     date: '2026-03-11',
     category: 'Consultoría',
     readTime: 7,
-    author: 'AP Automatización IA',
+    author: 'Automatización Procesos IA',
     tags: ['consultor ia externo', 'consultoria ia empresa', 'cuando contratar ia', 'proveedor ia', 'implementacion ia'],
     content: `<h2>¿Realmente necesitas un consultor de IA externo?</h2>
 <p>Empecemos con honestidad: no todas las empresas necesitan un consultor de IA externo. Si tienes un equipo técnico interno con tiempo disponible y conocimientos reales en automatización e inteligencia artificial, o si el proyecto que tienes en mente es pequeño y perfectamente definido, probablemente puedes avanzar sin ayuda externa.</p>
@@ -672,7 +672,7 @@ export const blogPosts: BlogPost[] = [
 
 <h2>Cuándo NO contratar un consultor externo</h2>
 <p>No tiene sentido contratar un consultor cuando: el proyecto está perfectamente definido y tu equipo técnico tiene los conocimientos para ejecutarlo, el presupuesto es tan ajustado que el coste de consultoría compromete la viabilidad del propio proyecto, o buscas a alguien que haga absolutamente todo por ti sin involucrar ni formar al equipo interno (eso garantiza dependencia externa indefinida y costes crecientes).</p>
-<p>En AP Automatización IA trabajamos con estos principios. Si quieres explorar si tiene sentido colaborar, el primer paso es nuestro <a href="/diagnostico-gratuito">diagnóstico gratuito de 45 minutos</a>. Sin presión, sin compromiso, y con resultados concretos independientemente de si luego decidís contratar o no.</p>`,
+<p>En Automatización Procesos IA trabajamos con estos principios. Si quieres explorar si tiene sentido colaborar, el primer paso es nuestro <a href="/diagnostico-gratuito">diagnóstico gratuito de 45 minutos</a>. Sin presión, sin compromiso, y con resultados concretos independientemente de si luego decidís contratar o no.</p>`,
   },
   {
     slug: 'n8n-vs-zapier-vs-make-cual-elegir',
@@ -682,11 +682,11 @@ export const blogPosts: BlogPost[] = [
     date: '2026-05-19',
     category: 'Herramientas IA',
     readTime: 9,
-    author: 'AP Automatización IA',
+    author: 'Automatización Procesos IA',
     tags: ['n8n', 'zapier', 'make', 'automatizacion', 'herramientas ia', 'no-code'],
     content: `<h2>La pregunta del millón en automatización empresarial</h2>
 <p>Cuando una empresa decide empezar a automatizar sus procesos con IA, una de las primeras decisiones técnicas que hay que tomar es elegir la plataforma de automatización. Las tres que dominan el mercado en 2026 son n8n, Zapier y Make (antes conocido como Integromat). Las tres permiten conectar aplicaciones y crear flujos automatizados sin escribir código desde cero, pero sus diferencias son significativas y la elección equivocada puede costarte tiempo y dinero.</p>
-<p>En AP Automatización IA hemos implementado proyectos con las tres plataformas en empresas españolas de distintos sectores. Esta comparativa está basada en nuestra experiencia real, no en documentación de los fabricantes.</p>
+<p>En Automatización Procesos IA hemos implementado proyectos con las tres plataformas en empresas españolas de distintos sectores. Esta comparativa está basada en nuestra experiencia real, no en documentación de los fabricantes.</p>
 
 <h2>Resumen rápido antes de profundizar</h2>
 <ul>
@@ -750,7 +750,7 @@ export const blogPosts: BlogPost[] = [
     date: '2026-05-12',
     category: 'Herramientas IA',
     readTime: 10,
-    author: 'AP Automatización IA',
+    author: 'Automatización Procesos IA',
     tags: ['chatgpt', 'openai', 'ia empresas', 'productividad', 'prompts'],
     content: `<h2>Por qué ChatGPT sigue siendo la referencia en 2026</h2>
 <p>Dos años después de su explosión masiva, ChatGPT mantiene su posición como la herramienta de IA más usada en el entorno empresarial global. No porque sea perfecta en todo, sino porque combina versatilidad, calidad de respuesta y facilidad de uso en una proporción que ningún competidor ha igualado todavía. Si tu empresa todavía no tiene una estrategia clara de uso de ChatGPT, esta guía te da todo lo que necesitas para empezar con buen pie.</p>
@@ -814,10 +814,10 @@ export const blogPosts: BlogPost[] = [
     date: '2026-05-05',
     category: 'Automatización',
     readTime: 8,
-    author: 'AP Automatización IA',
+    author: 'Automatización Procesos IA',
     tags: ['atencion cliente', 'chatbots', 'automatizacion', 'ia empresas', 'servicio cliente'],
     content: `<h2>El error que arruina la mayoría de proyectos de chatbot</h2>
-<p>Cuando una empresa decide implementar IA en su atención al cliente, el error más habitual es intentar automatizar demasiado demasiado pronto. El resultado es un chatbot que frustra a los clientes porque no entiende sus preguntas, no puede resolver sus problemas reales, y cuando finalmente transfiere al equipo humano, el cliente llega ya enfadado. En AP Automatización IA hemos visto este patrón repetirse decenas de veces.</p>
+<p>Cuando una empresa decide implementar IA en su atención al cliente, el error más habitual es intentar automatizar demasiado demasiado pronto. El resultado es un chatbot que frustra a los clientes porque no entiende sus preguntas, no puede resolver sus problemas reales, y cuando finalmente transfiere al equipo humano, el cliente llega ya enfadado. En Automatización Procesos IA hemos visto este patrón repetirse decenas de veces.</p>
 <p>La clave no es automatizar todo. La clave es automatizar lo correcto, mantener al humano donde aporta valor real, y diseñar la experiencia del cliente como un conjunto coherente donde IA y personas se complementan de forma natural.</p>
 
 <h2>Qué debes automatizar sin dudarlo</h2>
@@ -869,7 +869,7 @@ export const blogPosts: BlogPost[] = [
     date: '2026-04-28',
     category: 'Sectores',
     readTime: 9,
-    author: 'AP Automatización IA',
+    author: 'Automatización Procesos IA',
     tags: ['ia legal', 'despachos abogados', 'automatizacion legal', 'legaltech', 'ia sector legal'],
     content: `<h2>La transformación silenciosa del sector legal en España</h2>
 <p>Mientras los grandes despachos anglosajones llevan años invirtiendo en tecnología legal, muchos despachos españoles de tamaño medio todavía gestionan sus procesos con las mismas herramientas que hace diez años. Esa brecha se está cerrando rápidamente, y los despachos que adopten IA en los próximos 12-18 meses tendrán una ventaja competitiva significativa en eficiencia operativa y calidad de servicio.</p>
@@ -913,7 +913,7 @@ export const blogPosts: BlogPost[] = [
     date: '2026-04-21',
     category: 'Sectores',
     readTime: 8,
-    author: 'AP Automatización IA',
+    author: 'Automatización Procesos IA',
     tags: ['ia salud', 'clinicas', 'healthtech', 'automatizacion salud', 'gestion clinica'],
     content: `<h2>La sanidad privada española ante la oportunidad de la IA</h2>
 <p>Las clínicas privadas y centros de salud en España enfrentan una combinación de presiones que hace que la automatización inteligente sea especialmente relevante: la escasez de personal administrativo cualificado, el aumento continuo de la demanda de atención, las exigencias de cumplimiento normativo en constante evolución (RGPD, Ley de Salud Digital), y la necesidad de ofrecer una experiencia al paciente comparable a los mejores referentes del sector. La IA no es una opción futura en este contexto: ya es una ventaja competitiva real para las clínicas que la están adoptando correctamente.</p>
@@ -943,7 +943,7 @@ export const blogPosts: BlogPost[] = [
   <li><strong>Localización del procesamiento:</strong> el procesamiento de datos de salud debe realizarse dentro del EEE o con garantías adecuadas para transferencias internacionales. Verifica que tu proveedor de IA procesa datos en servidores europeos.</li>
   <li><strong>Minimización de datos:</strong> envía a los sistemas de IA únicamente los datos necesarios para la función específica que debe realizar, nunca el expediente clínico completo cuando solo se necesita la información de contacto para un recordatorio.</li>
 </ul>
-<p>En AP Automatización IA trabajamos con arquitecturas que cumplen plenamente con estos requisitos y podemos documentar el cumplimiento normativo de cada proyecto. Si quieres explorar qué proyectos de automatización tienen sentido en tu clínica respetando todas las obligaciones legales, <a href="/diagnostico-gratuito">nuestro diagnóstico gratuito</a> incluye revisión de viabilidad normativa.</p>`,
+<p>En Automatización Procesos IA trabajamos con arquitecturas que cumplen plenamente con estos requisitos y podemos documentar el cumplimiento normativo de cada proyecto. Si quieres explorar qué proyectos de automatización tienen sentido en tu clínica respetando todas las obligaciones legales, <a href="/diagnostico-gratuito">nuestro diagnóstico gratuito</a> incluye revisión de viabilidad normativa.</p>`,
   },
   {
     slug: 'como-escribir-prompts-ia-empresas',
@@ -953,7 +953,7 @@ export const blogPosts: BlogPost[] = [
     date: '2026-04-14',
     category: 'Formación IA',
     readTime: 8,
-    author: 'AP Automatización IA',
+    author: 'Automatización Procesos IA',
     tags: ['prompts', 'prompt engineering', 'chatgpt prompts', 'ia productividad', 'formacion ia'],
     content: `<h2>Por qué la mayoría de personas usan mal la IA</h2>
 <p>La mayoría de profesionales que han probado ChatGPT o Claude y no han quedado satisfechos con los resultados tienen el mismo problema: sus prompts son demasiado vagos y demasiado cortos. Le preguntan a la IA "escríbeme un email" y obtienen algo genérico e inútil. Le piden "analiza este contrato" y obtienen un resumen superficial. Concluyen que la IA "no es tan buena" cuando el problema real está en cómo formularon la petición.</p>
@@ -1021,7 +1021,7 @@ export const blogPosts: BlogPost[] = [
     date: '2026-04-07',
     category: 'Automatización',
     readTime: 9,
-    author: 'AP Automatización IA',
+    author: 'Automatización Procesos IA',
     tags: ['marketing ia', 'automatizacion marketing', 'email marketing ia', 'contenido ia', 'leads automaticos'],
     content: `<h2>El estado actual del marketing automatizado con IA</h2>
 <p>Hasta hace dos años, la automatización de marketing requería plataformas costosas (HubSpot, Marketo, Pardot) con implementaciones largas y equipos técnicos dedicados. Hoy, gracias a la democratización de la IA, una pyme de 10 personas puede implementar un ecosistema de marketing automatizado con IA por una fracción de ese coste y con resultados comparables en muchos casos a los de empresas mucho más grandes.</p>
@@ -1073,7 +1073,7 @@ export const blogPosts: BlogPost[] = [
     date: '2026-04-01',
     category: 'Sectores',
     readTime: 8,
-    author: 'AP Automatización IA',
+    author: 'Automatización Procesos IA',
     tags: ['ia rrhh', 'seleccion personal', 'recursos humanos ia', 'reclutamiento ia', 'hr tech'],
     content: `<h2>La presión sobre los equipos de RRHH en las pymes españolas</h2>
 <p>Los equipos de recursos humanos en pymes están sometidos a una paradoja constante: son responsables de una de las funciones más estratégicas de la empresa (encontrar y retener el talento correcto), pero tienen recursos muy limitados para hacerlo bien. El resultado es un proceso de selección que consume mucho tiempo, es inconsistente, y a menudo produce contrataciones que no son las óptimas simplemente porque no había capacidad para evaluar bien a todos los candidatos.</p>
@@ -1121,7 +1121,7 @@ export const blogPosts: BlogPost[] = [
     date: '2026-03-25',
     category: 'Estrategia IA',
     readTime: 9,
-    author: 'AP Automatización IA',
+    author: 'Automatización Procesos IA',
     tags: ['seguridad ia', 'privacidad datos', 'rgpd ia', 'datos empresas', 'ia segura'],
     content: `<h2>El riesgo que nadie habla cuando implementa IA</h2>
 <p>Cuando las empresas empiezan a usar herramientas de IA, el foco suele estar en la productividad, el ahorro de tiempo y el retorno de inversión. Lo que raramente se discute con suficiente profundidad en las fases iniciales son los riesgos de seguridad y privacidad que conlleva el uso de estas herramientas, especialmente cuando se trabaja con datos confidenciales de clientes, información financiera o datos personales.</p>
@@ -1183,7 +1183,7 @@ export const blogPosts: BlogPost[] = [
     date: '2026-03-18',
     category: 'Agentes IA',
     readTime: 9,
-    author: 'AP Automatización IA',
+    author: 'Automatización Procesos IA',
     tags: ['agentes ia', 'ia autonoma', 'llm agents', 'automatizacion avanzada', 'ia 2026'],
     content: `<h2>El salto de los chatbots a los agentes: por qué es tan importante</h2>
 <p>En 2023 y 2024, la conversación sobre IA en las empresas giraba casi exclusivamente en torno a los asistentes conversacionales: ChatGPT, Copilot, Claude. Herramientas útiles para responder preguntas, redactar textos y analizar documentos. En 2026, el foco ha cambiado hacia algo cualitativamente diferente y mucho más potente: los agentes de IA autónomos.</p>
@@ -1240,7 +1240,7 @@ export const blogPosts: BlogPost[] = [
     date: '2026-03-11',
     category: 'Sectores',
     readTime: 9,
-    author: 'AP Automatización IA',
+    author: 'Automatización Procesos IA',
     tags: ['ia ecommerce', 'ventas online ia', 'recomendaciones ia', 'atencion cliente ecommerce', 'ia tienda online'],
     content: `<h2>La brecha de personalización en el e-commerce español</h2>
 <p>El e-commerce en España sigue creciendo año tras año, pero la mayoría de tiendas online medianas todavía operan con la misma lógica de hace diez años: el mismo catálogo para todos los visitantes, los mismos emails para toda la base de clientes, y atención al cliente disponible solo en horario de oficina. Los grandes players (Amazon, Zalando, El Corte Inglés online) llevan años usando IA para personalizar cada aspecto de la experiencia del comprador. Esa tecnología es ahora accesible para tiendas de tamaño medio.</p>
@@ -1284,7 +1284,7 @@ export const blogPosts: BlogPost[] = [
     date: '2026-03-04',
     category: 'Estrategia IA',
     readTime: 11,
-    author: 'AP Automatización IA',
+    author: 'Automatización Procesos IA',
     tags: ['transformacion digital', 'pymes españa', 'digitalizacion empresas', 'kit digital', 'ia pymes'],
     content: `<h2>El estado real de la digitalización en las pymes españolas</h2>
 <p>Según el Índice de la Economía y la Sociedad Digitales (DESI) de la Comisión Europea, España sigue por debajo de la media europea en digitalización de pymes, especialmente en la adopción de tecnologías avanzadas como la inteligencia artificial, el análisis de datos y la automatización de procesos. Esta brecha, que podría parecer un problema, es en realidad una oportunidad: las pymes que lideren la digitalización en sus sectores en los próximos 12-24 meses tendrán una ventaja competitiva significativa y duradera.</p>
@@ -1347,7 +1347,7 @@ export const blogPosts: BlogPost[] = [
 
 <h2>Por dónde empezar hoy</h2>
 <p>La transformación digital no es un destino al que se llega, sino un proceso continuo de mejora. Lo más importante es empezar con el primer proyecto correcto: suficientemente pequeño para implementarlo bien y rápido, suficientemente impactante para que el equipo vea el valor y quiera más.</p>
-<p>En AP Automatización IA hemos acompañado a decenas de pymes españolas en este proceso. Si quieres que te ayudemos a identificar cuál es ese primer proyecto en tu caso, con una hoja de ruta personalizada y los números del ROI esperado, <a href="/diagnostico-gratuito">solicita nuestro diagnóstico gratuito de 45 minutos</a>. Sin presión ni compromiso.</p>`,
+<p>En Automatización Procesos IA hemos acompañado a decenas de pymes españolas en este proceso. Si quieres que te ayudemos a identificar cuál es ese primer proyecto en tu caso, con una hoja de ruta personalizada y los números del ROI esperado, <a href="/diagnostico-gratuito">solicita nuestro diagnóstico gratuito de 45 minutos</a>. Sin presión ni compromiso.</p>`,
   },
   {
     slug: 'calcular-roi-automatizacion',
@@ -1357,7 +1357,7 @@ export const blogPosts: BlogPost[] = [
     date: '2026-03-04',
     category: 'Estrategia IA',
     readTime: 7,
-    author: 'AP Automatización IA',
+    author: 'Automatización Procesos IA',
     tags: ['roi automatizacion', 'calcular roi ia', 'retorno inversion ia', 'ahorro ia empresa', 'metricas ia'],
     content: `<h2>Por qué la mayoría de cálculos de ROI de IA son engañosos</h2>
 <p>Si has pedido propuestas a proveedores de automatización e inteligencia artificial, probablemente has visto presentaciones con gráficas que prometen retornos del 300% o ahorros de "miles de horas anuales". Estos números suelen ser proyecciones optimistas construidas sobre el mejor escenario posible, sin tener en cuenta la curva real de adopción del equipo, los costes ocultos de mantenimiento, ni la realidad de que ninguna automatización funciona al 100% de eficiencia desde el primer día.</p>
@@ -1443,7 +1443,7 @@ export const blogPosts: BlogPost[] = [
     date: '2026-06-02',
     category: 'Automatización',
     readTime: 10,
-    author: 'AP Automatización IA',
+    author: 'Automatización Procesos IA',
     tags: ['automatización procesos', 'IA empresas España', 'n8n', 'make', 'zapier', 'ROI automatización'],
     content: `<h2>¿Qué es la automatización de procesos con IA y por qué importa ahora?</h2>
 <p>La automatización de procesos con inteligencia artificial es la combinación de software que ejecuta tareas repetitivas (RPA) con modelos de lenguaje que entienden contexto, toman decisiones y procesan información no estructurada. El resultado es que procesos que antes requerían horas de trabajo humano ahora se completan en minutos, con mayor precisión y sin intervención manual.</p>
@@ -1467,7 +1467,7 @@ export const blogPosts: BlogPost[] = [
 <h2>Herramientas de automatización: comparativa honesta</h2>
 <p>El mercado de herramientas de automatización ha crecido enormemente. Las más usadas en España son:</p>
 <h3>n8n (nuestra favorita para proyectos complejos)</h3>
-<p>Plataforma open source de automatización de flujos. Puede desplegarse en servidores propios (importante para cumplimiento RGPD), tiene más de 400 integraciones nativas y permite lógica compleja con código cuando es necesario. Es la herramienta que más usamos en AP Automatización IA para proyectos empresariales por su flexibilidad y el control total sobre los datos.</p>
+<p>Plataforma open source de automatización de flujos. Puede desplegarse en servidores propios (importante para cumplimiento RGPD), tiene más de 400 integraciones nativas y permite lógica compleja con código cuando es necesario. Es la herramienta que más usamos en Automatización Procesos IA para proyectos empresariales por su flexibilidad y el control total sobre los datos.</p>
 <h3>Make (antes Integromat)</h3>
 <p>Interfaz visual muy intuitiva, ideal para automatizaciones de complejidad media. Excelente para integrar apps de productividad (Google Workspace, Notion, HubSpot). Precio razonable para pymes. La limitación es que los datos pasan por servidores de Make, lo que requiere análisis de cumplimiento si trabajas con datos sensibles.</p>
 <h3>Zapier</h3>
@@ -1509,7 +1509,7 @@ export const blogPosts: BlogPost[] = [
     date: '2026-06-04',
     category: 'Chatbots',
     readTime: 9,
-    author: 'AP Automatización IA',
+    author: 'Automatización Procesos IA',
     tags: ['chatbot pymes', 'atención al cliente IA', 'chatbot español', 'soporte automatizado', 'whatsapp business ia'],
     content: `<h2>Por qué los chatbots de IA de 2026 no tienen nada que ver con los de hace 3 años</h2>
 <p>Cuando la mayoría de las personas piensa en chatbot, imagina esos árboles de decisión frustrantes que solo funcionan si escribes exactamente lo que esperan. Los chatbots basados en inteligencia artificial generativa son una tecnología completamente distinta. Entienden el contexto de una conversación, procesan preguntas formuladas de cualquier forma, conocen a fondo el negocio porque se les entrena con la documentación de la empresa, y escalan a un agente humano cuando detectan que la situación lo requiere — pasando todo el contexto para que el agente no tenga que repetir preguntas.</p>
@@ -1561,7 +1561,7 @@ export const blogPosts: BlogPost[] = [
     date: '2026-06-06',
     category: 'Agentes IA',
     readTime: 11,
-    author: 'AP Automatización IA',
+    author: 'Automatización Procesos IA',
     tags: ['agentes ia', 'agentes inteligentes', 'ia autónoma', 'automatización avanzada', 'llm empresas'],
     content: `<h2>La diferencia entre un chatbot, una automatización y un agente de IA</h2>
 <p>Uno de los conceptos más confusos en el mundo de la inteligencia artificial empresarial es la diferencia entre estos tres términos. Aquí va la distinción más clara que podemos darte:</p>
@@ -1606,7 +1606,7 @@ export const blogPosts: BlogPost[] = [
 
 <h2>Supervisión humana: el equilibrio correcto</h2>
 <p>Una de las preguntas más frecuentes es cuánta autonomía dar a un agente de IA. La respuesta depende de las consecuencias de un error. Un agente que redacta borradores de emails para revisión humana antes de enviarlos puede tener autonomía total en el proceso de redacción. Un agente que ejecuta transferencias bancarias necesita validación humana antes de cada acción irreversible.</p>
-<p>En AP Automatización IA diseñamos todos los agentes con un sistema de supervisión humana configurable (HITL — Human In The Loop). El nivel de autonomía se ajusta según la criticidad de cada tipo de acción, y siempre hay un registro completo de decisiones para auditoría.</p>
+<p>En Automatización Procesos IA diseñamos todos los agentes con un sistema de supervisión humana configurable (HITL — Human In The Loop). El nivel de autonomía se ajusta según la criticidad de cada tipo de acción, y siempre hay un registro completo de decisiones para auditoría.</p>
 <p>Si quieres explorar qué tipo de agente tendría más impacto en tu empresa, nuestro <a href="/diagnostico-gratuito">diagnóstico gratuito</a> incluye una sesión de ideación donde identificamos los casos de uso de mayor retorno para tu situación concreta.</p>`,
   },
   {
@@ -1616,7 +1616,7 @@ export const blogPosts: BlogPost[] = [
     date: '2026-06-08',
     category: 'Estrategia IA',
     readTime: 12,
-    author: 'AP Automatización IA',
+    author: 'Automatización Procesos IA',
     tags: ['ia pymes españa', 'inteligencia artificial pequeñas empresas', 'digitalización pymes', 'transformación digital españa', 'ia sin programar'],
     content: `<h2>La IA ya no es solo para grandes empresas</h2>
 <p>Hace tres años, implementar inteligencia artificial en una empresa requería un equipo de ingenieros, una inversión de seis cifras y meses de desarrollo. Hoy, una pyme de 10 personas puede desplegar una automatización funcional con IA en dos semanas por menos de 3.000 euros. El cambio ha sido radical, y muchas empresas españolas aún no se han dado cuenta.</p>
@@ -1660,7 +1660,7 @@ export const blogPosts: BlogPost[] = [
   <li><strong>Fondos FEDER:</strong> a través de comunidades autónomas, con líneas específicas para transformación digital.</li>
   <li><strong>Créditos ICO Digitalización:</strong> financiación blanda para proyectos de digitalización.</li>
 </ul>
-<p>En AP Automatización IA ayudamos a nuestros clientes a identificar y gestionar las ayudas aplicables a cada proyecto. Si quieres saber qué financiación podría cubrir tu proyecto, inclúyelo en tu <a href="/diagnostico-gratuito">diagnóstico gratuito</a>.</p>`,
+<p>En Automatización Procesos IA ayudamos a nuestros clientes a identificar y gestionar las ayudas aplicables a cada proyecto. Si quieres saber qué financiación podría cubrir tu proyecto, inclúyelo en tu <a href="/diagnostico-gratuito">diagnóstico gratuito</a>.</p>`,
   },
   {
     slug: 'como-usar-chatgpt-en-tu-empresa-productividad',
@@ -1669,7 +1669,7 @@ export const blogPosts: BlogPost[] = [
     date: '2026-06-09',
     category: 'Herramientas IA',
     readTime: 8,
-    author: 'AP Automatización IA',
+    author: 'Automatización Procesos IA',
     tags: ['chatgpt empresas', 'chatgpt productividad', 'ia equipo trabajo', 'prompt engineering empresa', 'chatgpt español'],
     content: `<h2>ChatGPT en la empresa: más allá del "ayúdame a escribir un email"</h2>
 <p>La mayoría de empresas que dicen "ya usamos ChatGPT" lo utilizan para dos cosas: corregir textos y resumir documentos. Es como tener un Ferrari y usarlo solo para ir al supermercado. Las empresas que realmente están sacando ventaja competitiva de ChatGPT y herramientas similares lo integran en sus procesos de trabajo de una forma mucho más sistemática.</p>
@@ -1742,7 +1742,7 @@ export const blogPosts: BlogPost[] = [
     date: '2026-06-10',
     category: 'Estrategia IA',
     readTime: 7,
-    author: 'AP Automatización IA',
+    author: 'Automatización Procesos IA',
     tags: ['consultor ia externo', 'consultoria ia españa', 'contratar consultor ia', 'freelance ia', 'experto inteligencia artificial'],
     content: `<h2>¿Cuándo tiene sentido contratar un consultor de IA externo?</h2>
 <p>No todas las empresas necesitan un consultor de IA externo. Algunas pueden implementar soluciones sencillas con herramientas no-code y formación básica del equipo. Pero hay situaciones donde el valor de un experto externo justifica claramente la inversión:</p>
@@ -1794,7 +1794,7 @@ export const blogPosts: BlogPost[] = [
   <li>¿Qué nivel de implicación necesitáis de mi equipo durante el proyecto?</li>
   <li>¿Incluye formación para que podamos mantener la solución internamente?</li>
 </ol>
-<p>En AP Automatización IA empezamos todos los proyectos con un <a href="/diagnostico-gratuito">diagnóstico gratuito de 45 minutos</a> donde respondemos estas preguntas antes de que tengas que comprometerte con nada. Creemos que la mejor forma de demostrar valor es haciéndolo, no prometiéndolo.</p>`,
+<p>En Automatización Procesos IA empezamos todos los proyectos con un <a href="/diagnostico-gratuito">diagnóstico gratuito de 45 minutos</a> donde respondemos estas preguntas antes de que tengas que comprometerte con nada. Creemos que la mejor forma de demostrar valor es haciéndolo, no prometiéndolo.</p>`,
   },
 ]
 
